@@ -1,5 +1,0 @@
-/home/aslankarayigitemirhan/internship/build/WSL_GCC-Debug/CMakeFiles/internship.dir
-/home/aslankarayigitemirhan/internship/build/WSL_GCC-Debug/CMakeFiles/edit_cache.dir
-/home/aslankarayigitemirhan/internship/build/WSL_GCC-Debug/CMakeFiles/rebuild_cache.dir
-/home/aslankarayigitemirhan/internship/build/WSL_GCC-Debug/CMakeFiles/internship_autogen_timestamp_deps.dir
-/home/aslankarayigitemirhan/internship/build/WSL_GCC-Debug/CMakeFiles/internship_autogen.dir
